@@ -11,5 +11,4 @@
 ![LeetCode stats](https://leetcard.jacoblin.cool/sinemttkn?theme=dark)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-sinemttkn-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sinemttkn/)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sinemttkn.sinemttkn)
 
