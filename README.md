@@ -8,4 +8,8 @@
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinemttkn&layout=compact&theme=radical)
 
+![LeetCode stats](https://leetcard.jacoblin.cool/sinemttkn?theme=dark)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-sinemttkn-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sinemttkn/)
+
+![Visitor Count](https://profile-counter.glitch.me/sinemttkn/count.svg)
 
