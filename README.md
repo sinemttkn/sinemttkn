@@ -2,7 +2,8 @@
 
 ![Coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2k3MmF0azRhb3FmdDdnemIxZ2F6cTJ0dXdjazQ1Nnh5eGpvcDkxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
 
-
+## My Codex Profile
+![siunem on Codex](https://www.codedex.io/@siunem)
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinemttkn&layout=compact&theme=radical)
