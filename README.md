@@ -2,7 +2,6 @@
 
 ![Coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2k3MmF0azRhb3FmdDdnemIxZ2F6cTJ0dXdjazQ1Nnh5eGpvcDkxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
 
-[![Codex Profile](https://raw.githubusercontent.com/<kullanıcı-adı>/<repo>/main/codex.png)](https://www.codedex.io/@siunem)
 
 
 ### Most Used Languages
@@ -16,4 +15,5 @@
 ![LeetCode stats](https://leetcard.jacoblin.cool/sinemttkn?theme=dark)  
 
 
+[![Codex Profile](https://raw.githubusercontent.com/<kullanıcı-adı>/<repo>/main/codex.png)](https://www.codedex.io/@siunem)
 
