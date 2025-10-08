@@ -12,8 +12,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinemttkn&show_icons=true&theme=radical)
 
 
-![LeetCode stats](https://leetcard.jacoblin.cool/sinemttkn?theme=dark)  
-
-
-[![Codex Profile](https://raw.githubusercontent.com/<kullanıcı-adı>/<repo>/main/codex.png)](https://www.codedex.io/@siunem)
-
